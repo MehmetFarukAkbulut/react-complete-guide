@@ -21,7 +21,33 @@ const DUMMY_EXPENSES = [
     id: 'e4',
     title: 'Yeni Masa (Evkur)',
     amount: 1450,
-    date: new Date(2021, 5, 12),
+    date: new Date(2022, 5, 12),
+  },{
+    id: 'e5',
+    title: 'Galatasaray Kombine',
+    amount: 12000,
+    date: new Date(2023, 1, 10),
+  },
+  {
+    id: 'e6',
+    title: 'Evlilik Yüzüğü',
+    amount: 20000,
+    date: new Date(2020, 1, 10),
+  },{
+    id: 'e7',
+    title: 'Boşanma Davası',
+    amount: 8000,
+    date: new Date(2023, 4, 8),
+  },{
+    id: 'e8',
+    title: 'Çift Terapisi',
+    amount: 25000,
+    date: new Date(2022, 8, 17),
+  },{
+    id: 'e9',
+    title: 'Fitness üyeliği',
+    amount: 2500,
+    date: new Date(2022, 10, 22),
   },
 ];
 
